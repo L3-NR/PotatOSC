@@ -22,4 +22,4 @@ Head on over to https://github.com/L3-NR/PotatOSC/releases and grab PotatOSC.exe
 Place the .exe (or a shortcut to it) into C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 ### How to make it indexed in windows search:
-Place the .exe (or a shortcut to it) into C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+Place a shortcut to the .exe into C:\ProgramData\Microsoft\Windows\Start Menu\Programs
